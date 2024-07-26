@@ -5,14 +5,14 @@ software developer
 ------------------
 
 it's been a while since I started leaning to code, I started with Python which made me able to create multiple desktop applications, Then I went to study Computer Science at Mohamed Elbachir Ibrahimi university, I learnt lot of things, Like Data structure, HTML CSS JS PHP and C DELPHI and JAVA including to this we made our first CS club "Infinity Tech" where we were challenging each other in Hackathons and doing Workshops, This made us go deeper and learn new technologies like git and GitHub, and also design principles using Figma. Finally, I am very excited to learn more about this world.
-
+### General information
 * 🌍  I'm based in Bordj Bou Arreridj, Algeria
 * ✉️  You can contact me at [yakoubbenaissa7@hotmail.com](mailto:yakoubbenaissa7@hotmail.com)
 * 🧠  I'm learning C# WPF and .net
 * 🤝  I'm open to collaborating on open-source projects
 * ⚡  I'm secretly Batman... but don't tell anyone
 
-### Skills
+### My Skills
 
 
 <p align="left">
